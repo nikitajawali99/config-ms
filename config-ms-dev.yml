@@ -1,1 +1,7 @@
-
+build:
+  id: 1.2.0-SNAPSHOT
+  name: "My Dev Application"
+  description: "This is my dev application"
+  version: "1.0.2-SNAPSHOT"
+  group: "com.example"
+  artifact: "my-dev-application"
